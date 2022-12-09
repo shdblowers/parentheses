@@ -1,6 +1,9 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Steven\Parentheses;
+
 class Calculations
 {
     public static function longestBalancedLength(string $str, bool $reversed = false): int

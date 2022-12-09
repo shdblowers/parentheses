@@ -1,7 +1,8 @@
 {
     "name": "steven/parentheses",
     "require-dev": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.5",
+        "phpstan/phpstan": "^1.9"
     },
     "autoload": {
         "psr-4": {
@@ -13,6 +14,5 @@
             "name": "Steven Blowers",
             "email": "steven@shdblowers.com"
         }
-    ],
-    "require": {}
+    ]
 }
